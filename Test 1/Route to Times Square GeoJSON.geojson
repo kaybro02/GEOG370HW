@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Route to Times Square GeoJSON",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.98188564404434, 40.768045095407189 ], [ -73.987594208919035, 40.770436657768734 ], [ -73.990905825698704, 40.765924247520068 ], [ -73.979506614949031, 40.761118035497311 ], [ -73.981816349634173, 40.757971087129739 ] ] ] } }
+]
+}
